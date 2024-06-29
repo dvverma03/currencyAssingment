@@ -29,6 +29,32 @@ export default function HomeScreen() {
           justifyContent: 'center',
           alignItems: 'center',
           marginTop: 50,
+        }} onPress={() => navigation.navigate("Dashboard")}>
+        <Icon name="arrow-forward-circle" size={30} color="#ffffff" />
+      </Pressable>
+      <Text>Tap here to go dashborad</Text>
+      <Pressable
+        style={{
+          backgroundColor: 'blue',
+          width: 50,
+          height: 50,
+          borderRadius: 50,
+          justifyContent: 'center',
+          alignItems: 'center',
+          marginTop: 50,
+        }} onPress={() => navigation.navigate("INR to Other Currency")}>
+        <Icon name="arrow-forward-circle" size={30} color="#ffffff" />
+      </Pressable>
+      <Text>Tap here to convert INR to other currency</Text>
+      <Pressable
+        style={{
+          backgroundColor: 'blue',
+          width: 50,
+          height: 50,
+          borderRadius: 50,
+          justifyContent: 'center',
+          alignItems: 'center',
+          marginTop: 50,
         }} onPress={() => navigation.navigate("Currency converter")}>
         <Icon name="arrow-forward-circle" size={30} color="#ffffff" />
       </Pressable>
