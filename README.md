@@ -77,12 +77,18 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-![home](https://github.com/dvverma03/currencyAssingment/assets/116081426/8755e6c4-f5bf-45a0-8eca-ce842ce1283e)
-![currency](https://github.com/dvverma03/currencyAssingment/assets/116081426/1b2033fd-e16e-4578-8b71-3f4946a45a87)
+
+- ![home](https://github.com/dvverma03/currencyAssingment/assets/116081426/1d211ac7-9290-409d-92d2-3a7aea55110d)
+![dashboard](https://github.com/dvverma03/currencyAssingment/assets/116081426/778e6126-7e8c-4e54-84ea-5171aa3c6d9f)
+![int to oth](https://github.com/dvverma03/currencyAssingment/assets/116081426/0bb7eb3a-145c-441c-bd74-b38200c0538c)
+![currency](https://github.com/dvverma03/currencyAssingment/assets/116081426/2552dd7d-6427-42ad-9655-44d703dea7f8)
+
 
 
 # Key Features of currency converter app
- you can convert any currency to other currency 
+you can see the rates of different currency in compare to INR
+You can convert INR to any other currency
+You can convert any currency to other currency 
 
 # implementation 
 In this app I uses frankfurter api for converting one currency to other currency.
