@@ -77,8 +77,9 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![home](https://github.com/dvverma03/currencyAssingment/assets/116081426/8755e6c4-f5bf-45a0-8eca-ce842ce1283e)
+![currency](https://github.com/dvverma03/currencyAssingment/assets/116081426/1b2033fd-e16e-4578-8b71-3f4946a45a87)
 
-![currency](https://github.com/dvverma03/currencyAssignment/assets/116081426/ad3d7b04-3fb6-451d-9c9f-3fba39149d25)
 
 # Key Features of currency converter app
  you can convert any currency to other currency 
